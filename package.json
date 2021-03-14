@@ -1,0 +1,21 @@
+{
+  "name": "clases-en-es6",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Helena Santana Perez",
+  "license": "ISC",
+  "keywords": [],
+  "description": "Proyecto",
+  "devDependencies": {
+    "@babel/cli": "^7.13.10",
+    "@babel/core": "^7.13.10",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.13.10"
+  },
+  "dependencies": {
+    "core-js": "^3.9.1"
+  }
+}
